@@ -1,0 +1,40 @@
+body{
+	color:#ffffff;
+	background-color:#1e1f45;
+}
+#jbtron{
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+/*
+
+
+				<div>
+					<form id="signupButton" action="<%=request.getContextPath()%>/signup.jsp" method="post">
+						<input class="form-control form-control-md" type="submit" value="Go to Signup">
+					</form>
+				</div>
+
+
+	 <div align="center">
+	  <h1>Sharing Economy Platform</h1>
+	  <form action="<%=request.getContextPath()%>/login.jsp" method="post">
+	   <input type="submit" value="Login" />
+	  </form>
+	  <br>
+	  <br>
+	  <form action="<%=request.getContextPath()%>/signup.jsp" method="post">
+	   <input type="submit" value="Signup" />
+	  </form>
+ </div>
+*/
+
+

@@ -1,0 +1,25 @@
+body{
+	color:#ffffff;
+	background-color:#1e1f45;
+}
+h2{
+	margin:20px;
+	text-align:center;
+	letter-spacing:4px;
+	font-family: monospace;
+	font-weight:900;
+}
+#loginBody{
+	margin-top:0px;
+	height:100%;
+}
+#rightArrow{
+	font-size:18px;
+}
+#form{
+	margin-top:25px;
+}
+.makeRed
+{
+   border-color: red;
+}

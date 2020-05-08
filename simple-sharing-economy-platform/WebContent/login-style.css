@@ -1,0 +1,36 @@
+body{
+	color:#ffffff;
+	background-color:#1e1f45;
+}
+h2{
+	margin:20px;
+	text-align:center;
+	letter-spacing:4px;
+	font-family: monospace;
+	font-weight:900;
+}
+#loginBody{
+	margin-top:100px;
+	height:400px;
+}
+#hello{
+	font-size:130px;
+	font-family:monospace;
+	font-weight:900;
+	letter-spacing:3px;
+	padding-top:12%;
+	float:left;
+}
+#afterHello{
+	letter-spacing:3px;
+	font-size:18px;
+}
+#rightArrow{
+	font-size:18px;
+}
+#form{
+	margin-top:20px;
+}
+a{
+	text-decoration:none;
+}
